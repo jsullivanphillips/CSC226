@@ -114,7 +114,7 @@ public class KMP{
 	    }
 	}
 	else{
-	    System.out.println("usage: java SubstringSearch <filename> <pattern_1> <pattern_2> ... <pattern_n>.");
+	    System.out.println("usage: java SubstringSearch <filename>.txt <pattern_1> <pattern_2> ... <pattern_n>.");
 	}
     }
 }
